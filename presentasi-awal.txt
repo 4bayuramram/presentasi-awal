@@ -2,4 +2,5 @@
  1. membuat akun github
  2. membuat repository 
  3. membuat file 
- 4.dst 
+ 4. setelah file pertama dibuat, lakukan percobaan berikutnya. 
+ 5. kembali lagi. 
