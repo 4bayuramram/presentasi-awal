@@ -1,0 +1,5 @@
+ file ini akan menjelasakan dasar dasar penggunaan github kepada para audience
+ 1. membuat akun github
+ 2. membuat repository 
+ 3. membuat file 
+ 4.dst 
